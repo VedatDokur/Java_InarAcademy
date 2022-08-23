@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class exercise03 {
 
 	public static void main(String[] args) {
-		// 
+		//Value of the feet.
+		
 		Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a value for feet: ");

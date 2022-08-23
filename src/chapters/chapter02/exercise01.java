@@ -3,6 +3,7 @@ package chapters.chapter02;
 import java.util.Scanner;
 
 public class exercise01 {
+	//Fahrenheit Degree.
 
 	public static void main(String[] args) {
 		//

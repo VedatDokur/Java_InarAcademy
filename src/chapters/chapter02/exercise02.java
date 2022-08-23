@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class exercise02 {
 
 	public static void main(String[] args) {
-		//
+		//Radius length of the cylinder.
+		
 		Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the radius and the length of a cylinder: ");

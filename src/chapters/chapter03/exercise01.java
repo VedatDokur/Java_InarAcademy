@@ -23,8 +23,7 @@ public class exercise01 {
 		  double r2 = (-b - Math.sqrt(discriminant)) / (2 * a);
 		 
 		  if (discriminant > 0) {
-		   System.out.println("The equation has two roots " + r1 + " and "
-		     + r2);
+		   System.out.println("The equation has two roots " + r1 + " and " + r2);
 		  } else {
 		   System.out.println("The equation has one root " + r1);
 		  }

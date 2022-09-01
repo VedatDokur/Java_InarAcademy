@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class exercise03 {
 
 	public static void main(String[] args) {
-		//Algebra: solve 2 * 2 linear equations
+		//Algebra: solve 2 * 2 linear equations.
+		
 		Scanner input = new Scanner(System.in);
 		 
 		  System.out.print("Enter a, b, c, d, e, f:");

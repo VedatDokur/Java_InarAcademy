@@ -6,6 +6,7 @@ public class exercise06 {
 
 	public static void main(String[] args) {
 		// Health application: BMI.
+		
 		Scanner input = new Scanner(System.in);
 
 		// Prompt the user to enter weight in pounds

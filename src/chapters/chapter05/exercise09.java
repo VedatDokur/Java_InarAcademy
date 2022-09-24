@@ -16,8 +16,7 @@ public class exercise09 {
 		  String secondMaxName = "";
 		 
 		  for (int i = 0; i < n; i++) {
-		   System.out.print("Enter name and score of student (" + (i + 1)
-		     + "):");
+		   System.out.print("Enter name and score of student (" + (i + 1) + "):");
 		   String name = input.next();
 		   int score = input.nextInt();
 		 

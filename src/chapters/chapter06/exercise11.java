@@ -4,6 +4,7 @@ public class exercise11 {
 
 	public static void main(String[] args) {
 		// Financial application: compute commissions.
+		//TEKRAR.
 
 		System.out.printf("%-15s%-15s\n", "Sales Amount", "Commission");
 
